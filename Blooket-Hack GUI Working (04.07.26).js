@@ -1,16 +1,16 @@
 // ==UserScript==
-// @name         Snack-Client
-// @namespace    https://github.com/snackrunnerHS/WORK-GAMEHACKS/blob/main/Blooket-Hack%20GUI%20Working%20(04.07.26).js
+// @name         S-Client
+// @namespace    https://github.com/Cicada-ES/S-Client
 // @version      1.0
-// @author       SnackrunnerHS
+// @author       Kn3ghtfall
 // @description  In another life, this may have been different.
 // @match        *://*.blooket.com/*
-// @icon         https://github.com/snackrunnerHS/WORK-GAMEHACKS/blob/main/Hack-Logo.png
+// @icon         https://github.com/Cicada-ES/S-Client/blob/main/S-Client.png
 // ==/UserScript==
 
-console.log("%c Jet-Client Activated %c\n Created by SnackrunnerHS", "color: #0e9bf9ff; font-size: 3rem", "color: #0a5fcdff; font-size: 1rem");
-console.log("%c Jet-Client.js", "color: #0077bcff; font-size: 1rem");
-console.log("%c They Wont know what hit em'.", "color: #ef2525ff; font-size: 1rem", "color: #2a6fd0ff; font-size: 1rem");
+console.log("%c S-Client Activated %c\n Created by Kn3ghtfall", "color: #0e9bf9ff; font-size: 3rem", "color: #0a5fcdff; font-size: 1rem");
+console.log("%c S-Client.js", "color: #0077bcff; font-size: 1rem");
+console.log("%c In another life, this may have been different.", "color: #ef2525ff; font-size: 1rem", "color: #2a6fd0ff; font-size: 1rem");
 
 (() => {
     let iframe = document.querySelector("iframe");
